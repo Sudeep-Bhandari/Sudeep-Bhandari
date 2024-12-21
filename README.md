@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on [Myntra-Clone](https://github.com/Sudeep-Bhandari/Myntra-Clone)
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/15UI8KM2p-ZbejCMqknWSGn9Jis9v7u-K/view)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1ZuCDUANmrdYCWeaHGAuaBRIOl70Vtuae/view)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Sudeep-Bhandari)
 
