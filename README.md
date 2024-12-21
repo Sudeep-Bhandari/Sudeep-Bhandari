@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 I’m currently working on **Front End**
+- 👨‍💻 I’m currently working on **Front End Development**
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1ZuCDUANmrdYCWeaHGAuaBRIOl70Vtuae/view)
 
