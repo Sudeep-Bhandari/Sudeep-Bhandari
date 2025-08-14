@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 <p><a href="https://www.buymeacoffee.com/Sudeep-Bhandari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sudeep-Bhandari" /></a></p><br><br>
 
 ###
-![snake gif](https://github.com/Sudeep-Bhandari/Sudeep-Bhandari/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Sudeep-Bhandari/Sudeep-Bhandari/output/snake.svg" alt="Snake animation" />
 
 
 
