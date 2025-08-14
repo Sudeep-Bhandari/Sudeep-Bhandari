@@ -61,8 +61,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Bhandari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/Sudeep-Bhandari/Sudeep-Bhandari/blob/output/github-snake-dark.svg)
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sudeep-Bhandari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sudeep-Bhandari" /></a></p><br><br>
+
+###
+![snake gif](https://github.com/Sudeep-Bhandari/Sudeep-Bhandari/blob/output/github-snake-dark.svg)
+
+
 
