@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sudeep-Bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="Sudeep-Bhandari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudeep-Bhandari" alt="Sudeep-Bhandari" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Sudeep-Bhandari)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
