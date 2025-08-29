@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudeep Yogesh Bhandari</h1>
+# <h1 align="center">Hi 👋, I'm Sudeep Yogesh Bhandari</h1>
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **Computer Science Student** with a keen interest in creating innovative solutions for real-world problems. I enjoy exploring modern technologies, building projects, and sharing my knowledge.  
+
+---
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sudeep-Bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="Sudeep-Bhandari" /> </p>
