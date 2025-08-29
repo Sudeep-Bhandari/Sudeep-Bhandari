@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 
 - 👨‍💻 I’m currently working on **Back End Development**
 
-- 📑 Check out my resume here - [My Resume]((https://drive.google.com/file/d/1sKK-rnYY0qHKS3aLnuaD4VVKZjJJX_a7/view?usp=sharing))
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1sKK-rnYY0qHKS3aLnuaD4VVKZjJJX_a7/view?usp=sharing)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Sudeep-Bhandari)
 
